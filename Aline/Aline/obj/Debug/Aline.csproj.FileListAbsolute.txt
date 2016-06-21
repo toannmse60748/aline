@@ -1,0 +1,5 @@
+c:\users\toannm\documents\visual studio 2010\Projects\Aline\Aline\bin\Aline.dll
+c:\users\toannm\documents\visual studio 2010\Projects\Aline\Aline\bin\Aline.pdb
+c:\users\toannm\documents\visual studio 2010\Projects\Aline\Aline\obj\Debug\Aline.dll
+c:\users\toannm\documents\visual studio 2010\Projects\Aline\Aline\obj\Debug\Aline.pdb
+C:\Users\ToanNM\Documents\Visual Studio 2010\Projects\Aline\Aline\obj\Debug\Aline.csprojResolveAssemblyReference.cache
